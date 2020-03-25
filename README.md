@@ -1,5 +1,5 @@
-# Nana
-nHentai Discord Bot
-[Join Discord Server](https://discord.gg/sXzu4FY) or [Invite Nana](https://discordapp.com/oauth2/authorize?client_id=583372268923518977&scope=bot&permissions=388160)
+# Albedo
+a general purpose Discord Bot to manage your nazarick
+[Join Discord Server](https://discord.gg/jSrBphp) or [Invite Albedo](https://discordapp.com/oauth2/authorize?client_id=643427412482457631&scope=bot&permissions=8)
 
-![Nana nHentai](https://cdn.discordapp.com/avatars/583372268923518977/2a38ef97ff60729ec79c5857ec0f8e5f.png?size=2048)
+![Albedo of Nazarick](https://cdn.discordapp.com/avatars/643427412482457631/e41d636d539c6314554efdd0aba8f7e3.webp?size=1024)
